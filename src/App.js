@@ -34,8 +34,8 @@ function App() {
         <Search onSearch={handleChangeData} />
         <TimeAndLocation />
         <div>{currentWeather && <CurrentWeather data={currentWeather} />}</div>
+        {forecast && <Forecast data={forecast} />}
       </div>
-      {forecast && <Forecast data={forecast} />}
     </div>
   );
 }
