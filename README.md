@@ -21,7 +21,8 @@ Reactjs javascript custom css
 
 # Preview
 
-To preview Click...
+To preview [Click...](
+https://ornate-lamington-6141f7.netlify.app)
 
 # ScreenShot
 
